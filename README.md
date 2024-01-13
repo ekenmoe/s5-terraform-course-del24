@@ -1,0 +1,1 @@
+# s5-terraform-course-del24
